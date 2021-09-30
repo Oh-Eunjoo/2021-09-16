@@ -13,7 +13,7 @@
 <br/>
 
 > ### Google Colaboratory [code linke] ###  
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1HUAxGdvd0rFMElexbY2A5qTkW6cPsy8C/view?usp=sharing)
 
 <br/>
 
